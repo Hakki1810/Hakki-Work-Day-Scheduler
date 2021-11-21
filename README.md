@@ -13,7 +13,9 @@ A calendar application that allows the user to save his/her events into each tim
 5. When I click the save button for that time block then the text for that event is saved in local storage
 6. When I refresh the page then the saved events persist
 
-## Screenshots
+## Demonstration
+
+![Alt Text](./assets/Workday.gif)
 
 ## Link to the deployed application
 
